@@ -1,0 +1,64 @@
+[submodule "mod-account-achievements"]
+	path = modules/mod-account-achievements
+	url = https://github.com/azerothcore/mod-account-achievements.git
+[submodule "mod-ah-bot-plus"]
+	path = modules/mod-ah-bot-plus
+	url = git@github.com:lasimondep/mod-ah-bot-plus.git
+	branch = Playerbot
+[submodule "mod-autobalance"]
+	path = modules/mod-autobalance
+	url = https://github.com/azerothcore/mod-autobalance.git
+[submodule "mod-dead-means-dead"]
+	path = modules/mod-dead-means-dead
+	url = git@github.com:lasimondep/mod-dead-means-dead.git
+	branch = Playerbot
+[submodule "mod-duel-reset"]
+	path = modules/mod-duel-reset
+	url = https://github.com/azerothcore/mod-duel-reset.git
+[submodule "mod-dynamic-loot-rates"]
+	path = modules/mod-dynamic-loot-rates
+	url = git@github.com:lasimondep/mod-dynamic-loot-rates.git
+	branch = Playerbot
+[submodule "mod-emblem-transfer"]
+	path = modules/mod-emblem-transfer
+	url = git@github.com:lasimondep/mod-emblem-transfer.git
+	branch = Playerbot
+[submodule "mod-fly-anywhere"]
+	path = modules/mod-fly-anywhere
+	url = https://github.com/abracadaniel22/mod-fly-anywhere.git
+[submodule "mod-guildhouse"]
+	path = modules/mod-guildhouse
+	url = git@github.com:lasimondep/mod-guildhouse.git
+	branch = Playerbot
+[submodule "mod-improved-bank"]
+	path = modules/mod-improved-bank
+	url = git@github.com:lasimondep/mod-improved-bank.git
+	branch = Playerbot
+[submodule "mod-individual-progression"]
+	path = modules/mod-individual-progression
+	url = git@github.com:lasimondep/mod-individual-progression.git
+	branch = Playerbot
+[submodule "mod-instance-reset"]
+	path = modules/mod-instance-reset
+	url = git@github.com:lasimondep/mod-instance-reset.git
+	branch = Playerbot
+[submodule "mod-junk-to-gold"]
+	path = modules/mod-junk-to-gold
+	url = https://github.com/noisiver/mod-junk-to-gold.git
+[submodule "mod-playerbots"]
+	path = modules/mod-playerbots
+	url = https://github.com/mod-playerbots/mod-playerbots.git
+[submodule "mod-reagent-bank"]
+	path = modules/mod-reagent-bank
+	url = git@github.com:lasimondep/mod-reagent-bank.git
+	branch = Playerbot
+[submodule "mod-reagent-bank-account"]
+	path = modules/mod-reagent-bank-account
+	url = git@github.com:lasimondep/mod-reagent-bank-account.git
+	branch = Playerbot
+[submodule "mod-TimeIsTime"]
+	path = modules/mod-TimeIsTime
+	url = https://github.com/dunjeon/mod-TimeIsTime.git
+[submodule "mod-transmog"]
+	path = modules/mod-transmog
+	url = git@github.com:lasimondep/mod-transmog.git
